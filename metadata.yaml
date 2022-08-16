@@ -1,0 +1,47 @@
+_repo: Life-of-Liszt_68522
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Nohl, Ludwig
+    aliases:
+    - Nohl, Karl Friedrich Ludwig
+    - Nohl, Louis
+    birthdate: 1831
+    deathdate: 1885
+    gutenberg_agent_id: '4810'
+    url: http://www.gutenberg.org/2009/agents/4810
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ludwig_Nohl
+    - https://de.wikipedia.org/wiki/Ludwig_Nohl
+description: ''
+gutenberg_issued: '2022-07-14'
+identifiers:
+  gutenberg: '68522'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015007884441&view=1up&seq=1&skin=2021
+pgterms:marc905: 20211002135937nohl
+pgterms:marc906: '1880'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :A. C. McClurg & Company,1880,pubdate 1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Biographies of musicians
+subjects:
+- !lcsh 'Liszt, Franz, 1811-1886'
+- !lcc 'ML'
+- GITenberg
+title: Life of Liszt
+url: http://www.gutenberg.org/ebooks/68522
